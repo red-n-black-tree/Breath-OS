@@ -67,6 +67,7 @@
       <property name="show-frame" type="bool" value="false"/>
       <property name="size-max" type="uint" value="22"/>
       <property name="names-visible" type="array">
+        <value type="string" value="gigolo"/>
         <value type="string" value="сеть"/>
         <value type="string" value="апплет networkmanager"/>
         <value type="string" value="xfce4-power-manager"/>
@@ -93,6 +94,7 @@
       <property name="square-icons" type="bool" value="false"/>
       <property name="symbolic-icons" type="bool" value="true"/>
       <property name="known-items" type="array">
+        <value type="string" value="blueman"/>
         <value type="string" value="nm-applet"/>
       </property>
     </property>

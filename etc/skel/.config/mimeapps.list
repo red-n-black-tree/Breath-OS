@@ -1,0 +1,20 @@
+[Added Associations]
+application/x-shellscript=mousepad.desktop;
+application/octet-stream=mousepad.desktop;exo-file-manager.desktop;
+text/plain=mousepad.desktop;
+x-scheme-handler/http=exo-web-browser.desktop
+x-scheme-handler/https=exo-web-browser.desktop
+application/x-sharedlib=userapp-gedit-XT2N5Z.desktop;sgt-mines.desktop;exo-file-manager.desktop;
+text/x-install=mousepad.desktop;
+application/x-desktop=mousepad.desktop;panel-desktop-handler.desktop;
+text/x-log=mousepad.desktop;
+application/x-theme=mousepad.desktop;
+image/png=firefox.desktop;
+text/x-copying=gedit.desktop;
+text/x-authors=gedit.desktop;
+image/jpeg=firefox.desktop;
+application/xml=gedit.desktop;
+image/svg+xml=ristretto.desktop;
+
+[Default Applications]
+application/octet-stream=mousepad.desktop

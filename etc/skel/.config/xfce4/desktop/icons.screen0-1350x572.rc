@@ -5,8 +5,20 @@
 row=1
 col=1
 
+[/home/user/Рабочий стол/Configuration.zip]
+row=2
+col=1
+
 [/home/user/Рабочий стол/plank-master]
 row=0
+col=1
+
+[/home/user/Рабочий стол/Windows-10-3.0.zip]
+row=3
+col=1
+
+[/home/user/Рабочий стол/Windows-10-3.0]
+row=4
 col=1
 
 [/home/user/Рабочий стол/Configuration]

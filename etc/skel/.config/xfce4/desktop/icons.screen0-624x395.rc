@@ -1,0 +1,27 @@
+[xfdesktop-version-4.10.3+-rcfile_format]
+4.10.3+=true
+
+[/home/user/Рабочий стол/nature1.jpg]
+row=1
+col=1
+
+[/home/user/Рабочий стол/System]
+row=0
+col=1
+
+[2019-05-13-13-58-35-65]
+row=0
+col=0
+
+[Корзина]
+row=1
+col=0
+
+[/]
+row=2
+col=0
+
+[/home/user]
+row=2
+col=1
+

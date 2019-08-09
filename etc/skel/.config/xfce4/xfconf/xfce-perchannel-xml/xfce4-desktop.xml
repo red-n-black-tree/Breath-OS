@@ -15,13 +15,13 @@
   <property name="backdrop" type="empty">
     <property name="screen0" type="empty">
       <property name="monitor0" type="empty">
-        <property name="image-path" type="empty"/>
+        <property name="image-path" type="string" value="/home/user/Рабочий стол/baku2.jpg"/>
         <property name="image-style" type="empty"/>
         <property name="image-show" type="empty"/>
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/xfce4/backdrops/xubuntu-wallpaper.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/mountains2.jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
@@ -45,5 +45,9 @@
         <property name="image-show" type="empty"/>
       </property>
     </property>
+  </property>
+  <property name="last" type="empty">
+    <property name="window-width" type="int" value="751"/>
+    <property name="window-height" type="int" value="608"/>
   </property>
 </channel>
