@@ -1,0 +1,1694 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 12">
+<meta name=Originator content="Microsoft Word 12">
+<link rel=File-List href="hlp0_files/filelist.xml">
+<link rel=themeData href="hlp0_files/themedata.thmx">
+<link rel=colorSchemeMapping href="hlp0_files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>150</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:1;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1073786111 1 0 415 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520081665 -1073717157 41 0 66047 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{mso-style-priority:1;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";
+	mso-ascii-font-family:Tahoma;
+	mso-hansi-font-family:Tahoma;
+	mso-bidi-font-family:Tahoma;}
+p.msopapdefault, li.msopapdefault, div.msopapdefault
+	{mso-style-name:msopapdefault;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 45.0pt 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="6146"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=WordSection1>
+
+<p class=MsoNoSpacing align=center style='text-align:center;line-height:115%'><span
+class=SpellE><b><span style='font-size:14.0pt;line-height:115%;font-family:
+"Courier New"'>ALPLogo</span></b></span><b><span style='font-size:14.0pt;
+line-height:115%;font-family:"Courier New"'> <span class=SpellE>proqramla</span></span></b><b><span
+lang=AZ-LATIN style='font-size:14.0pt;line-height:115%;font-family:"Courier New";
+mso-ansi-language:AZ-LATIN'>&#351;d&#305;rma mühitinin komandalar&#305;</span></b><span
+style='font-family:"Courier New"'><o:p></o:p></span></p>
+
+<p class=MsoNoSpacing style='line-height:115%'><span lang=AZ-LATIN
+style='font-family:"Courier New";mso-ansi-language:AZ-LATIN'>&nbsp;</span><span
+style='font-family:"Courier New"'><o:p></o:p></span></p>
+
+<p class=MsoNoSpacing style='line-height:115%'><span style='font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=635
+ style='width:476.45pt;margin-left:4.65pt;border-collapse:collapse;mso-yfti-tbllook:
+ 1184;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span style='font-family:"Courier New";color:black'>&#8470;</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;text-autospace:none'><span class=SpellE><b><span
+  style='font-family:"Courier New";color:black'>Komandan&#305;n</span></b></span><b><span
+  style='font-family:"Courier New";color:black'> <span class=SpellE>format&#305;</span></span></b><span
+  style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;text-autospace:none'><span class=SpellE><b><span
+  style='font-family:"Courier New";color:black'>Komandan&#305;n</span></b></span><b><span
+  style='font-family:"Courier New";color:black'> <span class=SpellE>izah&#305;</span></span></b><b><span
+  lang=AZ-LATIN style='font-family:"Courier New";color:black;mso-ansi-language:
+  AZ-LATIN'> v&#601; örn&#601;k</span></b><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New";
+  color:black'>1</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:"Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>altproqram </span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>abc
+  (x, y)</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>&nbsp;</span></b><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNoSpacing style='line-height:115%'><span lang=AZ-LATIN
+  style='font-family:"Courier New";mso-ansi-language:AZ-LATIN'>Ba&#351;qa
+  proqramdan ça&#287;r&#305;lan yard&#305;mç&#305; proqram (altproqram) t&#601;yin
+  olunur. M&#601;s&#601;l&#601;n, &nbsp;</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNoSpacing style='line-height:115%'><b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>altproqram
+  </span></b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>kvadrat (a) </span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNoSpacing style='line-height:115%'><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>[</span><span
+  style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNoSpacing style='line-height:115%'><b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>&nbsp;&nbsp;
+  t&#601;krarla </span></b><span lang=AZ-LATIN style='font-family:"Courier New";
+  color:#00B0F0;mso-ansi-language:AZ-LATIN'>4 [<b>ir&#601;li </b>a<b> sa&#287;a
+  </b>90]</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNoSpacing style='line-height:115%'><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>]&nbsp;</span><span
+  style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNoSpacing style='line-height:115%'><span lang=AZ-LATIN
+  style='font-family:"Courier New";mso-ansi-language:AZ-LATIN'>altproqram&#305;
+  t&#601;r&#601;fi <span style='color:#00B0F0'>a</span> olan kvadrat ç&#601;kir.
+  &#304;ndi t&#601;r&#601;fi 80 v&#601; 100 olan iki kvadrat ç&#601;km&#601;k
+  üçün &#601;sas proqramda, sad&#601;c&#601;,&nbsp; </span><span
+  style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNoSpacing style='line-height:115%'><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>&nbsp;</span><span
+  style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNoSpacing style='line-height:115%'><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>kvadrat
+  (80)</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNoSpacing style='line-height:115%'><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>kvadrat
+  (100)<b>&nbsp;</b></span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-align:
+  justify;text-autospace:none'><span lang=AZ-LATIN style='font-family:"Courier New";
+  mso-ansi-language:AZ-LATIN'>komandalar&#305;n&#305; yazmaq
+  laz&#305;md&#305;r. </span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:black;mso-ansi-language:AZ-LATIN'>2</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>ba&#287;an&#305;gizl&#601;</span></b><span
+  style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";mso-ansi-language:
+  AZ-LATIN'>Ba&#287;a gizl&#601;dilir, y&#601;ni ekranda görünm&#601;z olur.</span><span
+  style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>ba&#287;an&#305;gizl&#601;</span></b><span
+  style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;height:10.7pt'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:10.7pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:black;mso-ansi-language:AZ-LATIN'>3</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:10.7pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>ba&#287;an&#305;göst&#601;r</span></b><span
+  style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:10.7pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#262626;
+  mso-ansi-language:AZ-LATIN'>Ba&#287;a ekranda göst&#601;rilir.<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>ba&#287;an&#305;göst&#601;r</span></b><span
+  style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4;height:10.7pt'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:10.7pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:black;mso-ansi-language:AZ-LATIN'>4<o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:10.7pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>carien<o:p></o:p></span></b></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:10.7pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#262626;
+  mso-ansi-language:AZ-LATIN'>Ekran&#305;n cari enini özund&#601; saxlayan d&#601;yi&#351;&#601;n.
+  <o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>yaz carien</span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#262626;mso-ansi-language:AZ-LATIN'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;height:10.7pt'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:10.7pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:black;mso-ansi-language:AZ-LATIN'>5<o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:10.7pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>cariuzunluq<o:p></o:p></span></b></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:10.7pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#262626;
+  mso-ansi-language:AZ-LATIN'>Ekran&#305;n cari uzunlu&#287;unu özund&#601;
+  saxlayan d&#601;yi&#351;&#601;n.</span><b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>yaz cariuzunluq</span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#262626;mso-ansi-language:AZ-LATIN'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6;height:28.7pt'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:28.7pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New"'>6<o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:28.7pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>cariX<o:p></o:p></span></b></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:28.7pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#262626;
+  mso-ansi-language:AZ-LATIN'>Ba&#287;an&#305;n cari X koordinant&#305;n&#305;
+  özund&#601; saxlayan d&#601;yi&#351;&#601;n. <o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>yaz cariX</span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#262626;mso-ansi-language:AZ-LATIN'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7;height:25.55pt'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:25.55pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New"'>7<o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:25.55pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>cariY<o:p></o:p></span></b></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:25.55pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#262626;
+  mso-ansi-language:AZ-LATIN'>Ba&#287;an&#305;n cari Y koordinant&#305;n&#305;
+  özund&#601; saxlayan d&#601;yi&#351;&#601;n.</span><b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>yaz cariY</span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#262626;mso-ansi-language:AZ-LATIN'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New";
+  color:black'>8</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:"Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>d&#601;yi&#351;&#601;n </span></b><span
+  lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:
+  AZ-LATIN'>x</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>x </span><span lang=AZ-LATIN style='font-family:
+  "Courier New";color:#262626;mso-ansi-language:AZ-LATIN'>d&#601;yi&#351;&#601;ni
+  elan olunur. M&#601;s&#601;l&#601;n, </span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>d&#601;yi&#351;&#601;n </span></b><span
+  lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:
+  AZ-LATIN'>a, b</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-align:
+  justify;text-autospace:none'><span lang=AZ-LATIN style='font-family:"Courier New";
+  color:#262626;mso-ansi-language:AZ-LATIN'>komandas&#305; il&#601; iki </span><span
+  lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:
+  AZ-LATIN'>a</span><span lang=AZ-LATIN style='font-family:"Courier New";
+  color:#262626;mso-ansi-language:AZ-LATIN'> v&#601; </span><span
+  lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:
+  AZ-LATIN'>b</span><span lang=AZ-LATIN style='font-family:"Courier New";
+  color:#262626;mso-ansi-language:AZ-LATIN'> d&#601;yi&#351;&#601;ni elan
+  edilir. </span><span lang=AZ-LATIN style='font-family:"Courier New";
+  mso-ansi-language:AZ-LATIN'>D&#601;yi&#351;&#601;n&#601; qiym&#601;t verm&#601;k
+  üçün m&#601;nims&#601;tm&#601; i&#351;ar&#601;sind&#601;n (=) istifad&#601;
+  olunur.</span><span lang=AZ-LATIN style='font-size:8.0pt;line-height:115%;
+  font-family:"Courier New";mso-ansi-language:AZ-LATIN'>&nbsp;</span><span
+  style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>a = 5&nbsp;&nbsp; b = a + 1</span><span
+  style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New";
+  color:black'>9</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:"Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>dövrd&#601;nç&#305;x<o:p></o:p></span></b></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNoSpacing style='line-height:115%'><b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>t&#601;krarla
+  </span></b><span lang=AZ-LATIN style='font-family:"Courier New";mso-ansi-language:
+  AZ-LATIN'>komandas&#305; il&#601; qurulmu&#351; dövrd&#601;n dövr bitm&#601;mi&#351;
+  ç&#305;xmaq üçün istifad&#601; olunur.<b><span style='color:#00B0F0'><o:p></o:p></span></b></span></p>
+  <p class=MsoNoSpacing style='line-height:115%'><b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>d&#601;yi&#351;&#601;n
+  </span></b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN;mso-bidi-font-weight:bold'>x<b><o:p></o:p></b></span></p>
+  <p class=MsoNoSpacing style='line-height:115%'><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN;
+  mso-bidi-font-weight:bold'>x=0<o:p></o:p></span></p>
+  <p class=MsoNoSpacing style='line-height:115%'><b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>q&#601;l&#601;miendir<o:p></o:p></span></b></p>
+  <p class=MsoNoSpacing style='line-height:115%'><b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>t&#601;krarla
+  </span></b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN;mso-bidi-font-weight:bold'>1000<b><o:p></o:p></b></span></p>
+  <p class=MsoNoSpacing style='line-height:115%'><b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>[<o:p></o:p></span></b></p>
+  <p class=MsoNoSpacing style='line-height:115%'><b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'><span
+  style='mso-spacerun:yes'>  </span>ir&#601;li </span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN;
+  mso-bidi-font-weight:bold'>x<b> sa&#287;a </b>90<b><o:p></o:p></b></span></p>
+  <p class=MsoNoSpacing style='line-height:115%'><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN;
+  mso-bidi-font-weight:bold'><span style='mso-spacerun:yes'>  </span>x=x+10<o:p></o:p></span></p>
+  <p class=MsoNoSpacing style='line-height:115%'><b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'><span
+  style='mso-spacerun:yes'>  </span>if</span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN;
+  mso-bidi-font-weight:bold'>(x&gt;350)<b> </b>[<b> dövrd&#601;nç&#305;x </b>]<b><o:p></o:p></b></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>]<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10;height:17.25pt'>
+  <td width=49 valign=top style='width:36.8pt;border-top:none;border-left:solid windowtext 1.0pt;
+  border-bottom:none;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;
+  height:17.25pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New";
+  color:black'>10</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:"Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border:none;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:17.25pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span class=SpellE><b><span style='font-family:"Courier New";
+  color:#00B0F0'>&#601;g&#601;r</span></b></span><b><span style='font-family:
+  "Courier New";color:#00B0F0'> </span></b><span style='font-family:"Courier New";
+  color:#00B0F0'>(<span class=SpellE>&#351;&#601;rt</span>)</span><span
+  style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span style='font-family:"Courier New";color:#00B0F0'>&nbsp; [<span
+  class=SpellE>komandalar</span> 1]</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span class=SpellE><b><span style='font-family:"Courier New";
+  color:#00B0F0'>&#601;kshalda</span></b></span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span style='font-family:"Courier New";color:#00B0F0'>&nbsp; [<span
+  class=SpellE>komandalar</span> 2]</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border:none;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:17.25pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-align:
+  justify;text-autospace:none'><span lang=AZ-LATIN style='font-family:"Courier New";
+  mso-ansi-language:AZ-LATIN'>&quot;<span style='color:#00B0F0'>&#351;&#601;rt</span>&quot;
+  do&#287;rudursa, &quot;<span style='color:#00B0F0'>komandalar 1</span>&quot;
+  qrupuna daxil olan komandalar yerin&#601; yetirilir. &#399;ks halda, &quot;<span
+  style='color:#00B0F0'>komandalar 2</span>&quot; qrupu icra olunur. <o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-align:
+  justify;text-autospace:none'><span style='font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNoSpacing style='line-height:115%'><b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>d&#601;yi&#351;&#601;n
+  </span></b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN;mso-bidi-font-weight:bold'>c1, c2<o:p></o:p></span></p>
+  <p class=MsoNoSpacing style='line-height:115%'><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN;
+  mso-bidi-font-weight:bold'>c1=500<o:p></o:p></span></p>
+  <p class=MsoNoSpacing style='line-height:115%'><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN;
+  mso-bidi-font-weight:bold'>c2=1000<o:p></o:p></span></p>
+  <p class=MsoNoSpacing style='line-height:115%'><b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>&#601;g&#601;r
+  </span></b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN;mso-bidi-font-weight:bold'>(c1 &lt; c2<b>)<o:p></o:p></b></span></p>
+  <p class=MsoNoSpacing style='line-height:115%'><b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'><span
+  style='mso-spacerun:yes'>  </span></span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN;
+  mso-bidi-font-weight:bold'>[<b>yaz</b> c1, &quot; kiçikdir&quot;]<o:p></o:p></span></p>
+  <p class=MsoNoSpacing style='line-height:115%'><b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>&#601;kshalda<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'><span style='mso-spacerun:yes'>  </span></span></b><span
+  lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:
+  AZ-LATIN;mso-bidi-font-weight:bold'>[<b>yaz</b> c1, &quot; kiçik deyil&quot;]<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#1F497D;
+  mso-ansi-language:AZ-LATIN'>&nbsp;</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";mso-ansi-language:
+  AZ-LATIN'>&#350;&#601;rtin öd&#601;nilm&#601;diyi hal&#305;n ön&#601;mi
+  yoxdursa, onu göst&#601;rm&#601;k laz&#305;m deyil (<b><span
+  style='color:#00B0F0'>&#601;kshalda </span></b>hiss&#601;sin&#601; g&#601;r&#601;k
+  yoxdur).</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New";
+  color:black'>11<o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>geri </span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>n</span><span
+  style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";mso-ansi-language:
+  AZ-LATIN'>Ba&#287;a<span style='color:#00B0F0'> n</span><span
+  style='color:#262626'> nöqt&#601; (piksel) geri gedir. </span></span><span
+  style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#262626;
+  mso-ansi-language:AZ-LATIN'>&nbsp;</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>geri</span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>
+  50</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New";
+  color:black'>12</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:"Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>get </span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>x,
+  y</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";mso-ansi-language:
+  AZ-LATIN'>Ba&#287;a<span style='color:#262626'> koordinatlar&#305; (</span><span
+  style='color:#00B0F0'>x, y</span><span style='color:#262626'>) olan nöqt&#601;y&#601;
+  keçir.</span></span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#262626;
+  mso-ansi-language:AZ-LATIN'>&nbsp;</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>get </span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>200,
+  300</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New";
+  color:black'>13</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:"Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>gözl&#601; </span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN;
+  mso-bidi-font-weight:bold'>x<b><o:p></o:p></b></span></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";mso-ansi-language:
+  AZ-LATIN'>Komandalar&#305;n icras&#305; <span style='color:#00B0F0;
+  mso-bidi-font-weight:bold'>x</span> millisaniy&#601; gözl&#601;dikd&#601;n
+  sornra yerin&#601; yetirilir.<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>ir&#601;li</span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>
+  100</span><span lang=AZ-LATIN style='font-family:"Courier New";mso-ansi-language:
+  AZ-LATIN'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>gözl&#601; </span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN;
+  mso-bidi-font-weight:bold'>1000<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>ir&#601;li</span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>
+  200<span style='mso-bidi-font-weight:bold'><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New";
+  color:black'>14</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:"Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>ilkinv&#601;ziyy&#601;t</span></b><span
+  lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:
+  AZ-LATIN'> </span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";mso-ansi-language:
+  AZ-LATIN'>Ba&#287;a<span style='color:#262626'> ilkin v&#601;ziyy&#601;t al&#305;r,
+  y&#601;ni i&#351; sah&#601;sinin m&#601;rk&#601;zind&#601; üzü yuxar&#305;
+  dayan&#305;r.<o:p></o:p></span></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span style='font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>ilkinv&#601;ziyy&#601;t</span></b><span
+  style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New";
+  color:black'>15<o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>ir&#601;li </span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>n</span><span
+  style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";mso-ansi-language:
+  AZ-LATIN'>Ba&#287;a<span style='color:#00B0F0'> n</span><span
+  style='color:#262626'> nöqt&#601; (piksel) ir&#601;li gedir. </span></span><span
+  style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#262626;
+  mso-ansi-language:AZ-LATIN'>&nbsp;</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>ir&#601;li</span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>
+  100</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:black;mso-ansi-language:AZ-LATIN'>16</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>musiqi </span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>m,
+  s</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>m</span><span lang=AZ-LATIN style='font-family:
+  "Courier New";color:#262626;mso-ansi-language:AZ-LATIN'> &nbsp;adl&#305;
+  melodiya </span><span lang=AZ-LATIN style='font-family:"Courier New";
+  color:#00B0F0;mso-ansi-language:AZ-LATIN'>s</span><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#262626;mso-ansi-language:AZ-LATIN'>
+  sür&#601;tl&#601; s&#601;sl&#601;ndirilir. </span><span style='font-family:
+  "Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#262626;
+  mso-ansi-language:AZ-LATIN'>&nbsp;</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span class=SpellE><b><span style='font-family:"Courier New";
+  color:#00B0F0'>musiqi</span></b></span><b><span style='font-family:"Courier New";
+  color:#00B0F0'> </span></b><span style='font-family:"Courier New";color:#00B0F0'>cüc&#601;l&#601;rim.alm,
+  80</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:black;mso-ansi-language:AZ-LATIN'>17</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>musiqidur<o:p></o:p></span></b></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#262626;
+  mso-ansi-language:AZ-LATIN'>S&#601;sl&#601;ndiril&#601;n musiqi durdurulur.<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span class=SpellE><b><span style='font-family:"Courier New";
+  color:#00B0F0'>musiqi</span></b></span><b><span style='font-family:"Courier New";
+  color:#00B0F0'> </span></b><span style='font-family:"Courier New";color:#00B0F0'>cüc&#601;l&#601;rim.alm,
+  80<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>gözl&#601; </span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN;
+  mso-bidi-font-weight:bold'>2000<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>musiqidur</span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New";
+  color:black'>18</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:"Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>q&#601;l&#601;miendir</span></b><span
+  lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:
+  AZ-LATIN'> </span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#262626;
+  mso-ansi-language:AZ-LATIN'>Ba&#287;a x&#601;tt ç&#601;km&#601;k üçün q&#601;l&#601;mi
+  endirir.<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span style='font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>q&#601;l&#601;miendir</span></b><span
+  lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:
+  AZ-LATIN'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New";
+  color:black'>19</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:"Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>q&#601;l&#601;miqald&#305;r </span></b><span
+  lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:
+  AZ-LATIN'>&nbsp;</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#262626;
+  mso-ansi-language:AZ-LATIN'>Ba&#287;a iz qoymadan h&#601;r&#601;k&#601;t etm&#601;k
+  üçün q&#601;l&#601;mi qald&#305;r&#305;r. </span><span style='font-family:
+  "Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span style='font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>q&#601;l&#601;miqald&#305;r </span></b><span
+  lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:
+  AZ-LATIN'>&nbsp;</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New";
+  color:black'>20<o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>q&#601;l&#601;minr&#601;ngi </span></b><span
+  lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:
+  AZ-LATIN'>r</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>r</span><span lang=AZ-LATIN style='font-family:
+  "Courier New";color:#262626;mso-ansi-language:AZ-LATIN'> r&#601;ngli q&#601;l&#601;m
+  seçilir. </span><span lang=AZ-LATIN style='font-family:"Courier New";
+  mso-ansi-language:AZ-LATIN'>Burada <span style='color:#00B0F0'>r</span> d&#601;yi&#351;&#601;ni
+  0-dan 15-d&#601;k qiym&#601;t ala bil&#601;r.</span><span style='font-family:
+  "Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#0070C0;
+  mso-ansi-language:AZ-LATIN'>&nbsp;</span></b><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>q&#601;l&#601;minr&#601;ngi</span></b><span
+  lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:
+  AZ-LATIN'> 4</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New";
+  color:black'>21</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:"Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>q&#601;l&#601;mineni </span></b><span
+  lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:
+  AZ-LATIN'>n</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#262626;
+  mso-ansi-language:AZ-LATIN'>Ba&#287;a qal&#305;nl&#305;&#287;&#305; </span><span
+  lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:
+  AZ-LATIN'>n</span><span lang=AZ-LATIN style='font-family:"Courier New";
+  color:#262626;mso-ansi-language:AZ-LATIN'> olan x&#601;tt ç&#601;k&#601;n q&#601;l&#601;mi
+  götürür.</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#262626;
+  mso-ansi-language:AZ-LATIN'>&nbsp;</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>q&#601;l&#601;mineni</span></b><span
+  lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:
+  AZ-LATIN'> 3</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New";
+  color:black'>22</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:"Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>r&#601;ngl&#601;</span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN;
+  mso-bidi-font-weight:bold'> x, y<b><o:p></o:p></b></span></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#262626;
+  mso-ansi-language:AZ-LATIN'>Ekran seçilmi&#351; r&#601;ng&#601; uy&#287;un
+  olaraq </span><span lang=AZ-LATIN style='font-family:"Courier New";
+  color:#00B0F0;mso-ansi-language:AZ-LATIN;mso-bidi-font-weight:bold'>x, y</span><span
+  lang=AZ-LATIN style='font-family:"Courier New";color:#262626;mso-ansi-language:
+  AZ-LATIN'> koordinant&#305;ndan ba&#351;layaraq r&#601;ngl&#601;nir. Ekranda
+  ç&#601;kilmi&#351; ba&#351;qa fiqurlar varsa onlar&#305;n qapal&#305; hiss&#601;l&#601;ri
+  r&#601;ngl&#601;nmir.<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#262626;
+  mso-ansi-language:AZ-LATIN'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>get </span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN;
+  mso-bidi-font-weight:bold'>200, 200<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>q&#601;l&#601;miendir<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><i style='mso-bidi-font-style:normal'><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN;
+  mso-bidi-font-weight:bold'>//kvadrat ç&#601;k<o:p></o:p></span></i></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>t&#601;krarla</span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN;
+  mso-bidi-font-weight:bold'> 4 <o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN;mso-bidi-font-weight:bold'>[<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'><span style='mso-spacerun:yes'>  </span>ir&#601;li</span></b><span
+  lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:
+  AZ-LATIN;mso-bidi-font-weight:bold'> 100 <b>sa&#287;a</b> 90<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN;mso-bidi-font-weight:bold'>] <o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>q&#601;l&#601;minr&#601;ngi</span></b><span
+  lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:
+  AZ-LATIN;mso-bidi-font-weight:bold'> 4<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><i style='mso-bidi-font-style:normal'><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN;
+  mso-bidi-font-weight:bold'>//kvadrati rengle<o:p></o:p></span></i></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>r&#601;ngl&#601;</span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN;
+  mso-bidi-font-weight:bold'> 250, 150 </span><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#262626;mso-ansi-language:AZ-LATIN'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New";
+  color:black'>23</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:"Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>sa&#287;a </span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>n</span><span
+  style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#262626;
+  mso-ansi-language:AZ-LATIN'>Ba&#287;a </span><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>n</span><span
+  lang=AZ-LATIN style='font-family:"Courier New";color:#262626;mso-ansi-language:
+  AZ-LATIN'> d&#601;r&#601;c&#601; sa&#287;a dönür.</span><span
+  style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>sa&#287;a</span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>
+  90</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24;height:11.15pt'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:11.15pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:black;mso-ansi-language:AZ-LATIN'>24</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:11.15pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>sil&nbsp; </span></b><span style='font-family:
+  "Courier New"'><o:p></o:p></span></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:11.15pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#262626;
+  mso-ansi-language:AZ-LATIN'>&#304;&#351; sah&#601;si t&#601;mizl&#601;nir.<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>sil</span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#262626;mso-ansi-language:AZ-LATIN'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25;height:24.65pt'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:24.65pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:black;mso-ansi-language:AZ-LATIN'>25<o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:24.65pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>sola </span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>n</span><span
+  style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:24.65pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#262626;
+  mso-ansi-language:AZ-LATIN'>Ba&#287;a </span><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>n</span><span
+  lang=AZ-LATIN style='font-family:"Courier New";color:#262626;mso-ansi-language:
+  AZ-LATIN'> d&#601;r&#601;c&#601; sola dönür.</span><span style='font-family:
+  "Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>sola</span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>
+  60</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New";
+  color:black'>26</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:"Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>t&#601;krarla </span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>n </span><span
+  style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>&nbsp; [komandalar]</span><span style='font-family:
+  "Courier New"'><o:p></o:p></span></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>[ ]</span><span lang=AZ-LATIN style='font-family:
+  "Courier New";color:#262626;mso-ansi-language:AZ-LATIN'> möt&#601;riz&#601;l&#601;rinin
+  iç&#601;risind&#601;ki &quot;</span><span lang=AZ-LATIN style='font-family:
+  "Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>komandalar</span><span
+  lang=AZ-LATIN style='font-family:"Courier New";color:#262626;mso-ansi-language:
+  AZ-LATIN'>&quot; t&#601;krar-t&#601;krar </span><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>n</span><span
+  lang=AZ-LATIN style='font-family:"Courier New";color:#262626;mso-ansi-language:
+  AZ-LATIN'> d&#601;f&#601; yerin&#601; yetirilir.</span><span
+  style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#262626;
+  mso-ansi-language:AZ-LATIN'>&nbsp;</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>t&#601;krarla </span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>4
+  [<b>ir&#601;li</b> 100 <b>sa&#287;a</b> 90]</span><span style='font-family:
+  "Courier New"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27;height:32.3pt'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:32.3pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New";
+  color:black'>27</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:"Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:32.3pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>t&#601;sadüfi</span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN;
+  mso-bidi-font-weight:bold'>(n)<b><o:p></o:p></b></span></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:32.3pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN;mso-bidi-font-weight:bold'>0<b> </b></span><span
+  lang=AZ-LATIN style='font-family:"Courier New";color:#262626;mso-ansi-language:
+  AZ-LATIN'>il&#601;</span><b><span lang=AZ-LATIN style='font-family:"Courier New";
+  color:#00B0F0;mso-ansi-language:AZ-LATIN'> </span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN;
+  mso-bidi-font-weight:bold'>n-1<b> </b></span><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#262626;mso-ansi-language:AZ-LATIN'>&#601;d&#601;dl&#601;ri
+  aras&#305;nda<span style='mso-spacerun:yes'>  </span>t&#601;sadüfi natural &#601;d&#601;d
+  qaytar&#305;r</span><b><span lang=AZ-LATIN style='font-family:"Courier New";
+  color:#00B0F0;mso-ansi-language:AZ-LATIN'><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>yaz t&#601;sadüfi</span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN;
+  mso-bidi-font-weight:bold'>(100)</span><span lang=AZ-LATIN style='font-family:
+  "Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28;height:51.65pt'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:51.65pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New"'>28<o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:51.65pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>yaz </span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>x</span><span
+  style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:51.65pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span style='font-family:"Courier New";color:#00B0F0'>x</span><span
+  style='font-family:"Courier New"'> &nbsp;</span><span lang=AZ-LATIN
+  style='font-family:"Courier New";mso-ansi-language:AZ-LATIN'>d&#601;yi&#351;&#601;ninin
+  qiym&#601;ti yaz&#305;l&#305;r. Sabit k&#601;miyy&#601;ti yazmaq üçün o,
+  d&#305;rnaq i&#351;ar&#601;si iç&#601;risind&#601; göst&#601;rilir.</span><span
+  style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:red;
+  mso-ansi-language:AZ-LATIN'>&nbsp;</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>yaz </span></b><span lang=AZ-LATIN
+  style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:AZ-LATIN'>a&nbsp;&nbsp;
+  <b>yaz </b></span><span style='font-family:"Courier New";color:#00B0F0'>&quot;</span><span
+  lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:
+  AZ-LATIN'>Salam&quot;<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29;height:51.65pt'>
+  <td width=49 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:51.65pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New"'>29<o:p></o:p></span></b></p>
+  </td>
+  <td width=203 valign=top style='width:152.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:51.65pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span class=SpellE><b><span style='font-family:"Courier New";
+  color:#00B0F0'>yaz&#305;n&#305;nölçüsü</span></b></span><b><span
+  style='font-family:"Courier New";color:#00B0F0'> </span></b><span
+  style='font-family:"Courier New";color:#00B0F0'>n</span><span
+  style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+  <td width=383 valign=top style='width:287.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:51.65pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";mso-ansi-language:
+  AZ-LATIN'>Yaz&#305; ölçüsü <span style='color:#00B0F0'>n</span> punkt mü&#601;yy&#601;n
+  olunur. &nbsp;Burada <span style='color:#00B0F0'>n</span> – natural &#601;d&#601;ddir.
+  </span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span lang=AZ-LATIN style='font-family:"Courier New";color:#262626;
+  mso-ansi-language:AZ-LATIN'>&nbsp;</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><b><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN'>yaz&#305;n&#305;nölçüsü </span></b><span
+  lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;mso-ansi-language:
+  AZ-LATIN'>14</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30;height:44.9pt'>
+  <td width=49 rowspan=2 valign=top style='width:36.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:44.9pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span class=SpellE><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:"Courier New"'>Qeyd</span></b></span><b style='mso-bidi-font-weight:
+  normal'><span style='font-family:"Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=586 colspan=2 valign=top style='width:439.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:44.9pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span class=SpellE><span style='font-family:"Courier New"'>Kodun</span></span><span
+  style='font-family:"Courier New"'> <span class=SpellE>ist&#601;nil&#601;n</span>
+  <span class=SpellE>s&#601;trind&#601;</span> &quot;<span style='color:#00B0F0'>//</span>&quot;
+  <span class=SpellE>simvollar&#305;n&#305;</span> <span class=SpellE>yazaraq</span>(d</span><span
+  lang=AZ-LATIN style='font-family:"Courier New";mso-ansi-language:AZ-LATIN'>&#305;rnaqs&#305;z)</span><span
+  style='font-family:"Courier New"'> <span class=SpellE>h&#601;min</span> <span
+  class=SpellE>simvollardan</span> <span class=SpellE>sonran&#305;</span> <span
+  class=SpellE><b style='mso-bidi-font-weight:normal'>qeyd</b></span> <span
+  class=SpellE>kimi</span> <span class=SpellE>göst&#601;rm&#601;k</span> <span
+  class=SpellE>mümkündür</span>. <span class=SpellE>Qeyd</span> <span
+  class=SpellE>kimi</span> <span class=SpellE>göst&#601;rilmi&#351;</span> <span
+  class=SpellE>hiss&#601;l&#601;r</span> <span class=SpellE>icra</span> <span
+  class=SpellE>olunmur</span>.<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span class=SpellE><span style='font-family:"Courier New"'>Nümun&#601;</span></span><span
+  style='font-family:"Courier New"'>: </span><i style='mso-bidi-font-style:
+  normal'><span lang=AZ-LATIN style='font-family:"Courier New";color:#00B0F0;
+  mso-ansi-language:AZ-LATIN;mso-bidi-font-weight:bold'>//kvadrat ç&#601;k<o:p></o:p></span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:31;mso-yfti-lastrow:yes;height:26.5pt'>
+  <td width=586 colspan=2 valign=top style='width:439.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;
+  height:26.5pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-autospace:
+  none'><span class=SpellE><span style='font-family:"Courier New"'>Kod</span></span><span
+  style='font-family:"Courier New"'> <span class=SpellE>bölümünd&#601;</span> <span
+  class=SpellE>olark&#601;n</span> <b style='mso-bidi-font-weight:normal'>CTRL
+  + SPACE</b> (CTRL + <span class=SpellE>Bo&#351;luq</span> <span class=SpellE>düym&#601;si</span>)
+  <span class=SpellE>düym&#601;l&#601;r</span> <span class=SpellE>kombinasiyas&#305;n&#305;</span>
+  <span class=SpellE>seç&#601;r&#601;k</span> <span class=SpellE>komanda</span>
+  <span class=SpellE>adlar&#305;</span> <span class=SpellE>il&#601;</span> <span
+  class=SpellE>ba&#287;l&#305;</span> <span class=SpellE>köm&#601;k</span> ala <span
+  class=SpellE>v&#601;</span> <span class=SpellE>kodun</span> <span
+  class=SpellE>yaz&#305;l&#305;&#351;&#305;n&#305;</span> <span class=SpellE>sür&#601;tl&#601;ndir&#601;</span>
+  <span class=SpellE>bil&#601;rsiniz</span>.<o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><span lang=RU style='font-family:"Courier New";mso-ansi-language:
+RU'>&nbsp;</span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

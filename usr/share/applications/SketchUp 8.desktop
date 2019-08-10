@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=SketchUp 8
+Exec=wine-stable C:\\\\Program\\ Files\\ \\(x86\\)\\\\Google\\\\Google\\ SketchUp\\ 8\\\\SketchUp.exe 
+Type=Application
+StartupNotify=true
+Icon=/usr/share/icons/sketchup_icon.png
+StartupWMClass=sketchup.exe
+Comment=
+Path=
+Terminal=false

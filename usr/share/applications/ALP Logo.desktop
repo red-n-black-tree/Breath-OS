@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=ALPLogo
+Exec=wine-stable C:\\\\Program\\ Files\\ \\(x86\\)\\\\ALP_Logo\\\\ALPLogo_3.3.0.exe
+Type=Application
+StartupNotify=true
+Icon=/usr/share/icons/alplogo_icon.png
+StartupWMClass=alplogo.exe
+Comment=
+Path=
+Terminal=false

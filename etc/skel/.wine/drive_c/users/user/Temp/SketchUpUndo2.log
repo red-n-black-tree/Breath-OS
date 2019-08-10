@@ -1,0 +1,189 @@
+File New
+File New
+======== Starting GL ========
+>CBaseGLView::OnInitialUpdate
+>InitializeOpenGL
+>GetActivePixelFormat
+Got PF= 0 from registry
+requestedpf.accel=1
+ARB functions NOT available.
+nPfds=320
+Pixel format 4 does not do a swap copy.
+Pixel format 5 does not do a swap copy.
+Pixel format 6 does not do a swap copy.
+Pixel format 7 does not do a swap copy.
+Pixel format 12 does not do a swap copy.
+Pixel format 13 does not do a swap copy.
+Pixel format 14 does not do a swap copy.
+Pixel format 15 does not do a swap copy.
+Pixel format 20 does not do a swap copy.
+Pixel format 21 does not do a swap copy.
+Pixel format 22 does not do a swap copy.
+Pixel format 23 does not do a swap copy.
+Pixel format 28 does not do a swap copy.
+Pixel format 29 does not do a swap copy.
+Pixel format 30 does not do a swap copy.
+Pixel format 31 does not do a swap copy.
+Pixel format 36 does not do a swap copy.
+Pixel format 37 does not do a swap copy.
+Pixel format 38 does not do a swap copy.
+Pixel format 39 does not do a swap copy.
+Pixel format 44 does not do a swap copy.
+Pixel format 45 does not do a swap copy.
+Pixel format 46 does not do a swap copy.
+Pixel format 47 does not do a swap copy.
+Pixel format 52 does not do a swap copy.
+Pixel format 53 does not do a swap copy.
+Pixel format 54 does not do a swap copy.
+Pixel format 55 does not do a swap copy.
+Pixel format 60 does not do a swap copy.
+Pixel format 61 does not do a swap copy.
+Pixel format 62 does not do a swap copy.
+Pixel format 63 does not do a swap copy.
+Pixel format 68 does not do a swap copy.
+Pixel format 69 does not do a swap copy.
+Pixel format 70 does not do a swap copy.
+Pixel format 71 does not do a swap copy.
+Pixel format 76 does not do a swap copy.
+Pixel format 77 does not do a swap copy.
+Pixel format 78 does not do a swap copy.
+Pixel format 79 does not do a swap copy.
+Pixel format 84 does not do a swap copy.
+Pixel format 85 does not do a swap copy.
+Pixel format 86 does not do a swap copy.
+Pixel format 87 does not do a swap copy.
+Pixel format 92 does not do a swap copy.
+Pixel format 93 does not do a swap copy.
+Pixel format 94 does not do a swap copy.
+Pixel format 95 does not do a swap copy.
+Pixel format 100 does not do a swap copy.
+Pixel format 101 does not do a swap copy.
+Pixel format 102 does not do a swap copy.
+Pixel format 103 does not do a swap copy.
+Pixel format 108 does not do a swap copy.
+Pixel format 109 does not do a swap copy.
+Pixel format 110 does not do a swap copy.
+Pixel format 111 does not do a swap copy.
+Pixel format 116 does not do a swap copy.
+Pixel format 117 does not do a swap copy.
+Pixel format 118 does not do a swap copy.
+Pixel format 119 does not do a swap copy.
+Pixel format 124 does not do a swap copy.
+Pixel format 125 does not do a swap copy.
+Pixel format 126 does not do a swap copy.
+Pixel format 127 does not do a swap copy.
+Pixel format 132 does not do a swap copy.
+Pixel format 133 does not do a swap copy.
+Pixel format 134 does not do a swap copy.
+Pixel format 135 does not do a swap copy.
+Pixel format 140 does not do a swap copy.
+Pixel format 141 does not do a swap copy.
+Pixel format 142 does not do a swap copy.
+Pixel format 143 does not do a swap copy.
+Pixel format 148 does not do a swap copy.
+Pixel format 149 does not do a swap copy.
+Pixel format 150 does not do a swap copy.
+Pixel format 151 does not do a swap copy.
+Pixel format 156 does not do a swap copy.
+Pixel format 157 does not do a swap copy.
+Pixel format 158 does not do a swap copy.
+Pixel format 159 does not do a swap copy.
+Pixel format 164 does not do a swap copy.
+Pixel format 165 does not do a swap copy.
+Pixel format 166 does not do a swap copy.
+Pixel format 167 does not do a swap copy.
+Pixel format 172 does not do a swap copy.
+Pixel format 173 does not do a swap copy.
+Pixel format 174 does not do a swap copy.
+Pixel format 175 does not do a swap copy.
+Pixel format 180 does not do a swap copy.
+Pixel format 181 does not do a swap copy.
+Pixel format 182 does not do a swap copy.
+Pixel format 183 does not do a swap copy.
+Pixel format 188 does not do a swap copy.
+Pixel format 189 does not do a swap copy.
+Pixel format 190 does not do a swap copy.
+Pixel format 191 does not do a swap copy.
+Pixel format 196 does not do a swap copy.
+Pixel format 197 does not do a swap copy.
+Pixel format 198 does not do a swap copy.
+Pixel format 199 does not do a swap copy.
+Pixel format 204 does not do a swap copy.
+Pixel format 205 does not do a swap copy.
+Pixel format 206 does not do a swap copy.
+Pixel format 207 does not do a swap copy.
+Pixel format 212 does not do a swap copy.
+Pixel format 213 does not do a swap copy.
+Pixel format 214 does not do a swap copy.
+Pixel format 215 does not do a swap copy.
+Pixel format 220 does not do a swap copy.
+Pixel format 221 does not do a swap copy.
+Pixel format 222 does not do a swap copy.
+Pixel format 223 does not do a swap copy.
+Pixel format 228 does not do a swap copy.
+Pixel format 229 does not do a swap copy.
+Pixel format 230 does not do a swap copy.
+Pixel format 231 does not do a swap copy.
+Pixel format 236 does not do a swap copy.
+Pixel format 237 does not do a swap copy.
+Pixel format 238 does not do a swap copy.
+Pixel format 239 does not do a swap copy.
+Pixel format 244 does not do a swap copy.
+Pixel format 245 does not do a swap copy.
+Pixel format 246 does not do a swap copy.
+Pixel format 247 does not do a swap copy.
+Pixel format 252 does not do a swap copy.
+Pixel format 253 does not do a swap copy.
+Pixel format 254 does not do a swap copy.
+Pixel format 255 does not do a swap copy.
+Pixel format 260 does not do a swap copy.
+Pixel format 261 does not do a swap copy.
+Pixel format 262 does not do a swap copy.
+Pixel format 263 does not do a swap copy.
+Pixel format 268 does not do a swap copy.
+Pixel format 269 does not do a swap copy.
+Pixel format 270 does not do a swap copy.
+Pixel format 271 does not do a swap copy.
+Pixel format 276 does not do a swap copy.
+Pixel format 277 does not do a swap copy.
+Pixel format 278 does not do a swap copy.
+Pixel format 279 does not do a swap copy.
+Pixel format 284 does not do a swap copy.
+Pixel format 285 does not do a swap copy.
+Pixel format 286 does not do a swap copy.
+Pixel format 287 does not do a swap copy.
+Pixel format 292 does not do a swap copy.
+Pixel format 293 does not do a swap copy.
+Pixel format 294 does not do a swap copy.
+Pixel format 295 does not do a swap copy.
+Pixel format 300 does not do a swap copy.
+Pixel format 301 does not do a swap copy.
+Pixel format 302 does not do a swap copy.
+Pixel format 303 does not do a swap copy.
+Pixel format 308 does not do a swap copy.
+Pixel format 309 does not do a swap copy.
+Pixel format 310 does not do a swap copy.
+Pixel format 311 does not do a swap copy.
+Pixel format 316 does not do a swap copy.
+Pixel format 317 does not do a swap copy.
+Pixel format 318 does not do a swap copy.
+Pixel format 319 does not do a swap copy.
+ChoosePixelFormat returning 0
+requestedpf.accel=1
+ARB functions NOT available.
+nPfds=320
+ChoosePixelFormat returning 149
+GLConfigUtils::GetActivePixelFormat ... returning 149
+Make a context ... pf=149
+Got context @3015e80 error=0
+GL initialization succeeded
+***** First UI thread = 76
+Tool(SketchTool)
+Tool(SketchTool)
+UseHWAccelerationFirstTime
+Not first time ... returning true
+Tool(SelectionTool)
+>TerminateOpenGL
+HW_OK=1
+File New
+File New
