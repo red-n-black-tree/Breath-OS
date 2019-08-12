@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=ASM
+Exec=javaws /usr/bin/asm.jnlp
+Icon=/usr/share/icons/ASM-ico.png
+Type=Application
+StartupNotify=false
+
+

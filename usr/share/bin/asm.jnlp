@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<jnlp href="asm.jnlp" spec="1.0+" codebase="http://asm.edu.az">
+  <information>
+    <title>ASM Client</title>
+    <vendor>SIVECO Romania S.A.</vendor>
+    <homepage href="index.html">
+    </homepage>
+    <icon href="resources/images/bdne-icon2.gif">
+    </icon>
+    <description>Obiectivul acestui sistem este de a oferi o solutie informatica integrata care sa sustina anumite activitati desfasurate in cadrul Ministerului Educatiei, Cercetarii si Tineretului.</description>
+    <description kind="short">AeL School Manager</description>
+    <offline-allowed>
+    </offline-allowed>
+  </information>
+  <security>
+    <all-permissions>
+    </all-permissions>
+  </security>
+  <resources>
+    <j2se version="1.5+" max-heap-size="128m" initial-heap-size="32m">
+    </j2se>
+    <jar href="jgraphaddons.jar">
+    </jar>
+    <jar href="jgraph.jar">
+    </jar>
+    <jar href="bdne-public-0.1.jar">
+    </jar>
+    <jar href="bdne-client-0.1.jar">
+    </jar>
+    <jar href="bdne-common-0.1.jar">
+    </jar>
+    <jar href="asm-common-0.1.jar">
+    </jar>
+    <jar href="spring-richclient-sandbox.jar">
+    </jar>
+    <jar href="spring.jar">
+    </jar>
+    <jar href="spring-richclient.jar">
+    </jar>
+    <jar href="secman-jboss.jar">
+    </jar>
+    <jar href="foxtrot.jar">
+    </jar>
+    <jar href="spring-richclient-resources.jar">
+    </jar>
+    <jar href="spring-sandbox.jar">
+    </jar>
+    <jar href="bdne-server-0.1.jar">
+    </jar>
+    <jar href="asm-server-0.1.jar">
+    </jar>
+    <jar href="ejb.jar">
+    </jar>
+    <jar href="acegi-security.jar">
+    </jar>
+    <jar href="burlap.jar">
+    </jar>
+    <jar href="hessian.jar">
+    </jar>
+    <jar href="concurrent.jar">
+    </jar>
+    <jar href="commons-codec.jar">
+    </jar>
+    <jar href="hibernate-2.1.6.jar">
+    </jar>
+    <jar href="odmg-3.0.jar">
+    </jar>
+    <jar href="commons-lang-2.0.jar">
+    </jar>
+    <jar href="commons-logging-1.0.3.jar">
+    </jar>
+    <jar href="commons-beanutils-1.6.1.jar">
+    </jar>
+    <jar href="commons-collections-2.1.jar">
+    </jar>
+    <jar href="jh.jar">
+    </jar>
+    <jar href="jbossall-client.jar">
+    </jar>
+    <jar href="forms.jar">
+    </jar>
+    <jar href="looks-2.0.4.jar">
+    </jar>
+    <jar href="l2fprod-common-all.jar">
+    </jar>
+    <jar href="jcalendar.jar">
+    </jar>
+    <jar href="aopalliance.jar">
+    </jar>
+    <jar href="commons-attributes-api-2.1.jar">
+    </jar>
+    <jar href="jasperreports-2.0.4.jar">
+    </jar>
+    <jar href="iText.jar">
+    </jar>
+    <jar href="poi-2.5-final-20040302.jar">
+    </jar>
+    <jar href="jdt-compiler.jar">
+    </jar>
+    <jar href="ostermillerutils.jar">
+    </jar>
+    <jar href="jeppers.jar">
+    </jar>
+    <jar href="jexpression.jar">
+    </jar>
+    <jar href="jgrid.jar">
+    </jar>
+    <jar href="ognl-2.5.1.jar">
+    </jar>
+    <jar href="xnoun.jar">
+    </jar>
+    <jar href="jwf-1.0.1.jar">
+    </jar>
+    <jar href="syntax.jar">
+    </jar>
+    <jar href="postgresql-8.1-407.jdbc3.jar">
+    </jar>
+    <jar href="jcommon-1.0.16.jar">
+    </jar>
+    <jar href="jfreechart-1.0.13.jar">
+    </jar>
+    <jar main="true" href="asm-client-0.1.jar">
+    </jar>
+  </resources>
+  <application-desc main-class="ro.siveco.secretel.client.SECRETELClient">
+    <argument>java.naming.factory.initial=org.jnp.interfaces.NamingContextFactory</argument>
+    <argument>java.naming.provider.url=ael1.edu.az:1099</argument>
+    <argument>java.naming.factory.url.pkgs=org.jboss.naming:org.jnp.interfaces</argument>
+    <argument>web.app.url=http://asm.edu.az</argument>
+  </application-desc>
+</jnlp>
