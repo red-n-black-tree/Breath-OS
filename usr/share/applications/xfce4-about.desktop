@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Exec=xfce4-about
+Icon=help-about
+StartupNotify=false
+Terminal=false
+Categories=Utility;X-XFCE;X-Xfce-Toplevel;
+OnlyShowIn=XFCE;
+Name=About Breath OS
+Name[ru]=Об Breath OS
+Comment=Information about Breath OS
+Comment[ru]=Сведения об Breath OS
+
